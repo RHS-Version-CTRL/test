@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<item>
-    <version>2.0.0.0</version>
-    <url>https://github.com/topherRHS/test/raw/main/AutoUpdaterExampleWPF.exe</url>
-    <changelog>https://raw.githubusercontent.com/topherRHS/test/main/change%20log.html</changelog>
-	<checksum algorithm="MD5">09F82F165B27D827A50CA88848FA9870</checksum>
-    <mandatory>false</mandatory>
-</item>
